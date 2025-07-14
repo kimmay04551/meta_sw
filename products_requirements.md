@@ -21,6 +21,7 @@ React
   - `<ProductList />`
 - 상품 헤더 이미지 메인 화면에 표시
 - 장바구니 갯수 표기
+- 무한 스크롤 기능 구현
 
 
 <img width="692" height="685" alt="시안" src="https://github.com/user-attachments/assets/d75e161b-f602-4d51-9c91-19fdd08aed11" />
